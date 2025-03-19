@@ -1,37 +1,15 @@
 # Hi, I'm Wade Williams👋
-### Roboticist in Training | Former Investment Analyst
+### Roboticist in Training | Applied Math @ Dartmouth | Former Investment Analyst @ Blackstone 
 
-I’m a **former investment analyst** turned **roboticist**, passionate about making **fun robots and **useful AI agents**. My career began in the world of real estate finance at **The Blackstone Group** and **Amherst Holdings**, where I **analyzed potential real estate investments**. During my time **in finance**, I noticed a **recurring issue**: talented, brilliant people **wasting time on repetitive, mundane tasks**. With an already-strong **love for robotics and engineering** and my **applied math** background at **Darmtouth**, **I decided I wanted to be a part of solving this problem**. My goal? **To create fun robots and useful AI agents with the purpose of automating repetitive, boring digital and physical tasks to inspire and enable people to spend more time doing work that fulfills them.**
+I’m a **former investment analyst** turned **roboticist**, passionate about making **fun robots** and **useful AI agents**. My career began in the world of finance at **The Blackstone Group** and **Amherst Holdings**, where I **analyzed potential real estate investments**. During my time **in finance**, I noticed a **recurring issue**: talented, brilliant people **wasting time on repetitive, mundane tasks**. With an already-strong **love for robotics and engineering** and my **applied math** background at **Darmtouth**, **I decided I wanted to be a part of solving this problem**. My goal? 
+**To create fun robots and useful AI agents with the purpose of automating repetitive, boring digital and physical tasks to inspire and enable people to spend more time doing work that fulfills them.**
 
 
 ## 🚀 About Me
 - Former real estate finance at Blackstone
 - Dedicating my time to making fun robots and useful AI agents
 - Striving to automate repetitive, boring tasks and make the world more fun 
-  
 
-## 🚨 News  
-### [Your Announcement Title]  
-- [Details about your announcement, e.g., "Just launched my first mobile app on the App Store!"]
-
-### Events
-- [Event details, e.g., "Spoke at [Event/Conference] about [Topic] – watch it here: [Link]"]
-
-*If you don’t have news or events yet, feel free to skip this section or add placeholders for future updates.*
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=D14836&logo=Gmail&logoColor=FFFFFF&label=)](mailto:[YourEmail])
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/[YourLinkedIn])
-<img height=50px src="[Link to a fun GIF or image, e.g., https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif]" />
-
-_Feel free to reach out!_
-
-_✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡_
-
-</div>
-
----
 
 ## What I'm Up To
 
@@ -52,25 +30,13 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
 *List your work experiences here. If you don’t have any yet, you can include volunteer work or personal projects.*
 
-## 🔬 Academic Experience
-- [Degree/Program] at [University] – [Details, e.g., "Focused on [Subject], graduated [Year]"]
-- [Research/Project] at [Institution] – [Brief description]
-
-*Include your education and any academic projects or research.*
-
-## 🔍 Reviewing Experience
-- [Conference/Journal Name] – [Details, e.g., "Reviewed papers on [Topic]"]
-- [Another Conference/Journal Name]
-
-*If you’ve done any reviewing (e.g., for conferences or journals), list it here. Otherwise, skip this section.*
-
 ## 🚀 Open Source Projects
 - 🌟 [Project Name](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
 - 📊 [Another Project Name](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
 
 *List any open-source projects you’ve worked on. If you don’t have any yet, consider contributing to one and adding it later!*
 
-## ✍️ Featured Articles
+## ✍️ Articles
 <details>
 <summary>Click to expand</summary>
 
