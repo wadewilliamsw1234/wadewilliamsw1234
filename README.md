@@ -28,9 +28,9 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 
 ## 🚀 Working On
-- 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
-- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
-- 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments][(https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – [Brief description, e.g., "A tool to automate [Task]."]
+- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – [Brief description]
+- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – [Brief description]
   
 
 ## 📚 Academic Projects
