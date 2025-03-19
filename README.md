@@ -27,7 +27,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - [Another Job Title] at [Another Company] – [Brief description]
 
 
-## 🚀 Projects In Progress
+## 🚀 Working On
 - 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
 - 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
 - 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
