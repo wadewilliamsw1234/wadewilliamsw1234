@@ -33,13 +33,13 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
   
 
-## 🚀 Dartmouth Academic Projects
-- 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – [Brief description, e.g., "A tool to automate [Task]."]
-- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – [Brief description]
-- 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/wadewilliamsw1234/Game-of-Hearts) – [Brief description]
-- 📊 [4th Down Conversion Predictors with Quantified Uncertainty](https://github.com/wadewilliamsw1234/fourth-down-conversion-predictors-with-quantified-uncertainty) – [Brief description]
-- 📊 [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/wadewilliamsw1234/optimization-for-image-reconstruction-deblurring) – [Brief description]
-- 
+## 📚 Academic Projects
+- 📈 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – [Aims to accurately predict stock prices by leveraging LSTM RNNs on historical data and multimodal inputs, enhancing investment decision-making.]
+- 🎲 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – [Seeks to discover optimal Blackjack strategies through reinforcement learning algorithms and explore the performance of reinforcement learning methods applied to variations of Blackjack.]
+- 💘 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/wadewilliamsw1234/Game-of-Hearts) – [Aims to foster trust and cooperation in online dating by modeling interactions with evolutionary game theory.]
+- 🏈 [4th Down Conversion Predictors with Quantified Uncertainty](https://github.com/wadewilliamsw1234/fourth-down-conversion-predictors-with-quantified-uncertainty) – [Seeks to improve on the NFL's model for predicting 4th down conversion success rates.]
+- 🖼️ [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/wadewilliamsw1234/optimization-for-image-reconstruction-deblurring) – [Explores the effectivesness of optimization algorithms for various image reconstruction and de-blurring problems.]
+
 
 ## ✍️ Articles
 <details>
