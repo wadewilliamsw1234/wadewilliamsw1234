@@ -35,7 +35,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 ## 🚀 Dartmouth Academic Projects
 - 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – [Brief description, e.g., "A tool to automate [Task]."]
-- 📊 [An Exploration of Reinforcement Learning in Blackjack][(https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – [Brief description]
+- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – [Brief description]
 - 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/wadewilliamsw1234/Game-of-Hearts) – [Brief description]
 - 📊 [4th Down Conversion Predictors with Quantified Uncertainty](https://github.com/wadewilliamsw1234/fourth-down-conversion-predictors-with-quantified-uncertainty) – [Brief description]
 - 📊 [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/wadewilliamsw1234/optimization-for-image-reconstruction-deblurring) – [Brief description]
