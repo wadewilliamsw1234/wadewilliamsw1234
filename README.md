@@ -1,13 +1,18 @@
-<h1 align="center">Hi there, I'm [Your Name] ✨</h1>
+<h1 align="center">Hi, I'm Wade Williams👋</h1>
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[YourUsername].[YourUsername])
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/[YourUsername])
 </div>
 
-As I [describe your current status, e.g., "prepare for my next semester at [Your University]"], I reflect on my journey so far. One of the standout moments was my [notable experience, e.g., "internship at [Company] where I developed [Project/Skill]"], which taught me [key takeaway, e.g., "the importance of teamwork in tech projects"].
+I’m a former investment analyst turned roboticist, passionate about making fun robots and useful AI agents. My career began in the world of real estate finance at The Blackstone Group and Amherst Holdings, where I helped these companies analyze real estate investments. During my time in finance, I noticed a recurring issue: talented, brilliant people wasting time on repetitive, mundane tasks. With an already-strong love for robotics and engineering and my applied math background at Darmtouth, I decided I wanted to be a part of solving this problem. My goal? To create fun robots and useful AI agents with the purpose of automating repetitive, boring digital and physical tasks to inspire and enable people to spend more time doing work that fulfills them.
 
-I’m currently immersed in [current projects or interests, e.g., "building a personal portfolio website using React"].
+
+## 🚀 About Me
+- Former real estate finance at Blackstone
+- Dedicating my time to making fun robots and useful AI agents
+- Striving to automate repetitive, boring tasks and make the world more fun 
+  
 
 ## 🚨 News  
 ### [Your Announcement Title]  
@@ -68,14 +73,6 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 - 📊 [Another Project Name](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
 
 *List any open-source projects you’ve worked on. If you don’t have any yet, consider contributing to one and adding it later!*
-
-## About Me  
-<details>
-<summary>Click to expand</summary>
-
-[Write about your background, e.g., "I’m a [your role, e.g., software engineering student] with a passion for [your interest, e.g., solving real-world problems through code]. I grew up in [Your City/Country], where I first got interested in [your field, e.g., tech] by [brief story, e.g., building my first website at age 12]. My journey has taken me through [key experiences, e.g., internships, projects], and I’m excited to keep learning and growing!"]
-
-</details>
 
 ## ✍️ Featured Articles
 <details>
