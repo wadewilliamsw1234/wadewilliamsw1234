@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Wade Williams👋</h1>
-<div align="center">
+# Hi, I'm Wade Williams👋
+### Roboticist in Training | Former Investment Analyst
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=[YourUsername].[YourUsername])
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/[YourUsername])
-</div>
-
-I’m a former investment analyst turned roboticist, passionate about making fun robots and useful AI agents. My career began in the world of real estate finance at The Blackstone Group and Amherst Holdings, where I helped these companies analyze real estate investments. During my time in finance, I noticed a recurring issue: talented, brilliant people wasting time on repetitive, mundane tasks. With an already-strong love for robotics and engineering and my applied math background at Darmtouth, I decided I wanted to be a part of solving this problem. My goal? To create fun robots and useful AI agents with the purpose of automating repetitive, boring digital and physical tasks to inspire and enable people to spend more time doing work that fulfills them.
+I’m a **former investment analyst** turned **roboticist**, passionate about making **fun robots and **useful AI agents**. My career began in the world of real estate finance at **The Blackstone Group** and **Amherst Holdings**, where I **analyzed potential real estate investments**. During my time **in finance**, I noticed a **recurring issue**: talented, brilliant people **wasting time on repetitive, mundane tasks**. With an already-strong **love for robotics and engineering** and my **applied math** background at **Darmtouth**, **I decided I wanted to be a part of solving this problem**. My goal? **To create fun robots and useful AI agents with the purpose of automating repetitive, boring digital and physical tasks to inspire and enable people to spend more time doing work that fulfills them.**
 
 
 ## 🚀 About Me
