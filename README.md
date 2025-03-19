@@ -16,11 +16,9 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - 🌱 I'm currently exploring [your current interests, e.g., "web development with JavaScript and Python"].
 - 📝 **Sharing insights and articles** on platforms like:  
   [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@[YourMediumUsername])  
-  *Add links to any platforms where you share content, or remove this if not applicable.*
 
 - 📺 **Follow me on:**  
   [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/[YourTwitter])  
-  *Add other social media links as needed.*
 
 - ⚡ **Fun fact:** [A fun fact about you, e.g., "I once built a robot out of spare parts in my garage!"]
 
@@ -28,13 +26,20 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - [Job Title] at [Company] – [Brief description, e.g., "Developed a customer database system."]
 - [Another Job Title] at [Another Company] – [Brief description]
 
-*List your work experiences here. If you don’t have any yet, you can include volunteer work or personal projects.*
 
-## 🚀 Open Source Projects
-- 🌟 [Project Name](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
-- 📊 [Another Project Name](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+## 🚀 Projects In Progress
+- 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
+- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+  
 
-*List any open-source projects you’ve worked on. If you don’t have any yet, consider contributing to one and adding it later!*
+## 🚀 Dartmouth Academic Projects
+- 🌟 [Multimodal Stock Analysis and Price Prediction](https://github.com/[YourUsername]/[ProjectRepo]) – [Brief description, e.g., "A tool to automate [Task]."]
+- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 📊 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 📊 [4th Down Conversion Predictors with Quantified Uncertainty](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 📊 [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
+- 📊 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/[YourUsername]/[AnotherProjectRepo]) – [Brief description]
 
 ## ✍️ Articles
 <details>
