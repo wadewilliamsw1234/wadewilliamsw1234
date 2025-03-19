@@ -28,9 +28,9 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 
 ## 🚀 Working On
-- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – [Brief description, e.g., "A tool to automate [Task]."]
-- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – [Brief description]
-- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – [Brief description]
+- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train a robot using reinforcement learning to locate and identify objects in unfamiliar environments
+- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to enable humanoid robots to move fluidly and naturally, enhancing human-robot interactions.
+- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models to help robots generalize and perform tasks in new simulated environments
   
 
 ## 📚 Academic Projects
