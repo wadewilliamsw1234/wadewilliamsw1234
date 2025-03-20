@@ -31,7 +31,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - **Investment Analyst Intern** at **[The Blackstone Group](https://www.blackstone.com/)** – underwrote real estate investments, conducted market research, and assisted in due diligence processes.
 - **Hybrid Data Science / Investment Analyst Intern** at **[Amherst Holdings](https://www.amherst.com/)** – underwrote real estate investments, automated repetitive processes, and evaluated historical underwriting performance.
 - **Founder** of **Pine Partners** - led capital raising efforts to establish a student-managed real estate fund.
-- **Software Engineer** for **[Dartmouth Formula Racing[(https://sites.dartmouth.edu/dfr/)** - worked as an embedded software and electrical systems engineer for formula-style hybrid and electric racecars.
+- **Software Engineer** for **[Dartmouth Formula Racing](https://sites.dartmouth.edu/dfr/)** - worked as an embedded software and electrical systems engineer for formula-style hybrid and electric racecars.
 - **Quantum Computing Researcher** at **[The Whitfield Group](https://jdwhitfield.com/)** - studied the abilities and limitations of new and existing computers to perform physical simulations.
 - **Founder** of **WW Car Refurbishing** - started an automotive refurbishing business to buy, refurbish, and sell used vehicles.
 - **Student / Robotics Coach / Admissions Ambassador** at **[Brentwood Academy](https://www.ironeagles9364.com/)** - VEX Robotics team programmer - 2020 Tennessee State Champion; worked as robotics coach and admissions tour guide post-graduation.
