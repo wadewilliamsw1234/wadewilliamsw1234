@@ -13,14 +13,16 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 ## What I'm Up To
 
-- 🌱 **Creating & Learning** - I'm currently helping small companies build AI agents and automation solutions to automate repetitive, time-consuming tasks, while expanding my skillset to robotics through fun projects (see working on), books, and writing articles.  
+- 🌱 **Creating & Learning** - I'm currently helping small companies build AI agents and automation solutions to automate repetitive, time-consuming tasks, while expanding my skillset to robotics through fun projects (see working on), books, and writing articles.
+- **Reading** -  
 - 📝 **Writing** - Writing has become my most relied upon method for learning and growing. I write in order to learn about what I don't yet understand. I was never the student to speak up in a seminar class, even though I believe my thoughts were valuable, but as I dive into robotics, I'm documenting my journey and progress openly, to clarify to myself what I do and don't understand and to give people the courage to share their thoughts.
-- **Follow me on:**
+- 📺 **Follow me on:**
   [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@wadewilliams6)
   [![X](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://x.com/wade_williams1)
+  [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/wade-g-williams)
+ <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
-- 📺 **Follow me on:**  
-  [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/[YourTwitter])  
+ _Feel free to reach out!_
 
 - ⚡ **Fun fact:** [A fun fact about you, e.g., "I once built a robot out of spare parts in my garage!"]
 
@@ -43,36 +45,8 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - 🖼️ [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/wadewilliamsw1234/optimization-for-image-reconstruction-deblurring) – Explores the effectivesness of optimization algorithms for various image reconstruction and de-blurring problems.
 
 
-## ✍️ Articles
-<details>
-<summary>Click to expand</summary>
+## 🚨 What's New  
 
-- [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@[YourMediumUsername]) [Article Title]([Link to your article]) – [Brief description]
-- [Another Article Title]([Link to another article]) – [Brief description]
-
-*If you’ve written articles or blog posts, list them here. Otherwise, skip this section or add it later.*
-
-</details>
-
-<div align="center">
-  <img src="https://github-read
-    
-<h1 align="center">Hi there, I'm Wade ✨</h1>
-<div align="center">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
-</div>
-
-As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 
-
-I’m currently immersed in exciting **robotics and AI research** at:  
-- 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
-- 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
-
-## 🚨 News  
-### 🎓 **New Tutorial Course Announcement!**  
-- 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**: [![Nano Movie Recommender System](https://img.shields.io/static/v1?style=flat-square&message=Nano+Movie+Recommender+System&color=000000&logo=Notion&logoColor=FFFFFF&label=)](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9)
 
 ### Events
 - 🎤 **Invited Talk**: Presented at **Shanghai Jiao Tong University** on *"Enhancing Robotic Manipulation with Vision-Language and Generative Models."*   👉 **Check the recording here:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1btfBYLEHS/?vd_source=e5e46a7b9d39094ea294e8beaca1d4ef) [![Watch on YouTube](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://youtu.be/cOL0cUpHdIY)
