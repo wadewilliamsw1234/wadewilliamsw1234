@@ -4,14 +4,14 @@
 I’m a **former investment analyst** turned **roboticist**, passionate about making **fun robots** and **useful AI agents**. My career began in the world of finance, interning at **The Blackstone Group** and **Amherst Holdings**, where I **analyzed potential real estate investments**. During my time **in finance**, I noticed a **recurring issue**: talented, brilliant people **wasting time on repetitive, mundane tasks**. With a strong **love for robotics and engineering** and my **applied math** background from **Dartmouth**, **I decided I wanted to contribute to solving this problem**. My goal? 
 **To create fun robots and useful AI agents that automate repetitive, boring digital and physical tasks, hoping to inspire and enable people to spend more time on work that fulfills them.**
 
-
+<br>
 
 ## 🚀 About Me
 - **Background:** Former real estate finance at Blackstone and Amherst.
 - **Currently:** Dedicating my time to building fun robots and useful AI agents.
 - **Mission:** Striving to automate repetitive, boring tasks and make the world more fun.
 
-
+<br>
 
 ## 🌟 What I'm Up To
 
@@ -25,6 +25,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 *Feel free to reach out!*
 
+<br>
 
 ## 💼 Professional Experience
 - **AI and Automation Consultant** - helping small companies ditch repetitive, mundane tasks with custom AI agents and automation solutions.
@@ -36,12 +37,14 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - **Founder** of **WW Car Refurbishing** - started an automotive refurbishing business to buy, refurbish, and sell used vehicles.
 - **Student / Robotics Coach / Admissions Ambassador** at **[Brentwood Academy](https://www.ironeagles9364.com/)** - VEX Robotics team programmer - 2020 Tennessee State Champion; worked as robotics coach and admissions tour guide post-graduation.
 
+<br>
 
 ## 🚀 Working On
 - 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train robots to find and identify objects in new, unseen spaces using reinforcement learning.
 - 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to make humanoid robots move like dancers, not stiffs, with trajectory optimization.
 - 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models so robots can adapt to new simulated worlds.
 
+<br>
   
 ## 📚 Academic Projects
 - 📈 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – Aims to accurately predict stock prices by leveraging LSTM RNNs on historical data and multimodal inputs, enhancing investment decision-making.
