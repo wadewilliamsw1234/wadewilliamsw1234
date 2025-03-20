@@ -27,8 +27,14 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 
 ## 💼 Professional Experience
-- **Investment Analyst Intern** at **The Blackstone Group** – Analyzed potential real estate investments, conducted market research, and assisted in due diligence processes.
-- **Intern** at **Amherst Holdings** – Supported the investment team in evaluating real estate opportunities and preparing investment memoranda.
+- **AI and Automation Consultant** - helping small companies ditch repetitive, mundane tasks with custom AI agents and automation solutions.
+- **Investment Analyst Intern** at **The Blackstone Group** – underwrote real estate investments, conducted market research, and assisted in due diligence processes.
+- **Hybrid Data Science / Investment Analyst Intern** at **Amherst Holdings** – underwrote real estate investments, automated repetitive processes, and evaluated historical underwriting performance.
+- **Founder** of **Pine Partners** - led capital raising efforts to establish a student-managed real estate fund.
+- **Software Engineer** for **Dartmouth Formula Racing** - worked as an embedded software and electrical systems engineer for formula-style hybrid and electric racecars.
+- **Quantum Computing Research Intern** at **The Whitfield Group** - studied the abilities and limitations of new and existing computers to perform physical simulations.
+- **Founder** of **WW Car Refurbishing** - started an automotive refurbishing business to buy, refurbish, and sell used vehicles.
+- **Student / Robotics Coach / Admissions Ambassador** at **Brentwood Academy** - VEX Robotics team programmer - 2020 Tennessee State Champion; worked as robotics coach and admissions tour guide post-graduation.
 
 
 ## 🚀 Working On
