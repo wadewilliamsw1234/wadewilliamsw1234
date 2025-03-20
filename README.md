@@ -15,7 +15,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 - 🌱 **Creating & Learning** - I'm currently helping small companies build AI agents and automation solutions to automate repetitive, time-consuming tasks, while expanding my skillset to robotics through fun projects (see working on), books, and writing articles.  
 - 📝 **Writing** - Writing has become my most relied upon method for learning and growing. I write in order to learn about what I don't yet understand. I was never the student to speak up in a seminar class, even though I believe my thoughts were valuable, but as I dive into robotics, I'm documenting my journey and progress openly, to clarify to myself what I do and don't understand and to give people the courage to share their thoughts.
-     [![Medium](https://medium.com/@wadewilliams6)  
+     [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@wadewilliams6)  
 
 - 📺 **Follow me on:**  
   [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/[YourTwitter])  
