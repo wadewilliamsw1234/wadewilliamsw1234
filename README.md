@@ -13,7 +13,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 ## What I'm Up To
 
-- 🌱 I'm currently exploring [your current interests, e.g., "web development with JavaScript and Python"].
+- 🌱 I'm currently helping small companies build AI agents and automation solutions to automate repetitive, time-consuming tasks, while expanding my skillset to robotics through fun projects (see working on), books, and writing articles.  
 - 📝 **Sharing insights and articles** on platforms like:  
   [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@[YourMediumUsername])  
 
