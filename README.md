@@ -5,10 +5,12 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 **To create fun robots and useful AI agents that automate repetitive, boring digital and physical tasks, hoping to inspire and enable people to spend more time on work that fulfills them.**
 
 
+
 ## 🚀 About Me
 - **Background:** Former real estate finance at Blackstone and Amherst.
 - **Currently:** Dedicating my time to building fun robots and useful AI agents.
 - **Mission:** Striving to automate repetitive, boring tasks and make the world more fun.
+
 
 
 ## 🌟 What I'm Up To
@@ -23,6 +25,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 *Feel free to reach out!*
 
+
 ## 💼 Professional Experience
 - **Investment Analyst Intern** at **The Blackstone Group** – Analyzed potential real estate investments, conducted market research, and assisted in due diligence processes.
 - **Intern** at **Amherst Holdings** – Supported the investment team in evaluating real estate opportunities and preparing investment memoranda.
@@ -32,6 +35,7 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 - 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train robots to find and identify objects in new, unseen spaces using reinforcement learning.
 - 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to make humanoid robots move like dancers, not stiffs, with trajectory optimization.
 - 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models so robots can adapt to new simulated worlds.
+
   
 ## 📚 Academic Projects
 - 📈 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – Aims to accurately predict stock prices by leveraging LSTM RNNs on historical data and multimodal inputs, enhancing investment decision-making.
