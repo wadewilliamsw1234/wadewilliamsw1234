@@ -6,17 +6,17 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 
 ## 🚀 About Me
-- Former real estate finance at Blackstone and Amherst
-- Currently dedicating my time to building fun robots and useful AI agents
-- Striving to automate repetitive, boring tasks and make the world more fun 
+- **Background:** Former real estate finance at Blackstone and Amherst.
+- **Currently:** Dedicating my time to building fun robots and useful AI agents.
+- **Mission:** Striving to automate repetitive, boring tasks and make the world more fun.
 
 
-## What I'm Up To
+## 🌟 What I'm Up To
 
-- 🌱 **Creating & Learning** - I'm currently helping small companies build AI agents and automation solutions to streamline repetitive, time-consuming tasks, while expanding my robotics skillset through fun projects (see "Working On" below), books, and writing articles.
-- 📖 **Reading** -  Currently exploring books on robotics, AI, and automation, such as *Robot-Proof* by Joseph Aoun and *The Master Algorithm* by Pedro Domingos.
+- 🌱 **Building & Learning** - Helping small companies ditch repetitive, mundane tasks with custom AI agents and automation solutions, while expanding my robotics skillset through fun projects (see "Working On" below).
+- 📖 **Reading** -  Diving into books on robotics, AI, and automation. Currently reading Introduction to Robotics: Mechanics and Control and Robot-Proof.
 - 📝 **Writing** - Writing has become my most relied-upon method for learning and growing. I write in order to learn what I think about what I don't yet understand. I was never the student to speak up in seminar classes, though I believed my thoughts were valuable. As I dive into robotics, I’m documenting my journey openly, to clarify my own understanding and to encourage others to share their ideas.
-- 📺 **Follow me on:**
+- 📺 **Connect With Me:**
   - [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@wadewilliams6)
   - [![X](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://x.com/wade_williams1)
   - [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/wade-g-williams)
@@ -29,10 +29,10 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 
 ## 🚀 Working On
-- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train a robot using reinforcement learning to locate and identify objects in unfamiliar environments.
-- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to enable humanoid robots to move fluidly and naturally, enhancing human-robot interactions.
-- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models to help robots generalize and perform tasks in new simulated environments.
-
+- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train robots to find and identify objects in new, unseen spaces using reinforcement learning.
+- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to make humanoid robots move like dancers, not stiffs, with trajectory optimization.
+- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models so robots can adapt to new simulated worlds.
+  
 ## 📚 Academic Projects
 - 📈 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – Aims to accurately predict stock prices by leveraging LSTM RNNs on historical data and multimodal inputs, enhancing investment decision-making.
 - 🎲 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – Seeks to discover optimal Blackjack strategies through reinforcement learning algorithms and explore their performance across game variations.
