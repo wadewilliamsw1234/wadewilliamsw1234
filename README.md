@@ -45,10 +45,3 @@ I’m a **former investment analyst turned roboticist**, passionate about **maki
 - 🚗 [Mobile Robotics: Methods & Algorithms] - Completing the coding assignments from the University of Michigan's (kindly) open-source grad course on probabalistic and geometric techniques for autonomous mobile robots.
 
 <br>
-  
-## 📚 Academic Projects
-- 📈 [Multimodal Stock Analysis and Price Prediction](https://github.com/wadewilliamsw1234/stock-price-prediction-using-LSTM-RNN) – Aims to accurately predict stock prices by leveraging LSTM RNNs on historical data and multimodal inputs, enhancing investment decision-making.
-- 🎲 [An Exploration of Reinforcement Learning in Blackjack](https://github.com/wadewilliamsw1234/reinforcement-learning-blackjack) – Seeks to discover optimal Blackjack strategies through reinforcement learning algorithms and explore their performance across game variations.
-- 💘 [An Evolutionary Game Theory Model for Promoting Trust in Online Dating](https://github.com/wadewilliamsw1234/Game-of-Hearts) – Aims to foster trust and cooperation in online dating by modeling interactions with evolutionary game theory.
-- 🏈 [4th Down Conversion Predictors with Quantified Uncertainty](https://github.com/wadewilliamsw1234/fourth-down-conversion-predictors-with-quantified-uncertainty) – Seeks to improve the NFL’s model for predicting 4th down conversion success rates.
-- 🖼️ [Optimization Methods for Image Reconstruction and De-Blurring](https://github.com/wadewilliamsw1234/optimization-for-image-reconstruction-deblurring) – Explores the effectiveness of optimization algorithms for various image reconstruction and de-blurring problems.
