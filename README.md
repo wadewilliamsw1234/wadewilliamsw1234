@@ -1,4 +1,4 @@
-# Hi, I'm Wade👋
+# Hi, I'm Wade
 ### Roboticist in Training | Applied Math @ Dartmouth | Former Investment Analyst @ Blackstone 
 
 I’m a **former investment analyst** turned **roboticist**, passionate about making **fun robots** and **useful AI agents**. My career began in the world of finance, interning at **The Blackstone Group** and **Amherst Holdings**, where I **analyzed potential real estate investments**. During my time **in finance**, I noticed a **recurring issue**: talented, brilliant people **wasting time on repetitive, mundane tasks**. With a strong **love for robotics and engineering** and my **applied math** background from **Dartmouth**, **I decided I wanted to contribute to solving this problem**. My goal? 
@@ -15,9 +15,9 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 
 ## 🌟 What I'm Up To
 
-- 🌱 **Building & Learning** - Helping small companies ditch repetitive, mundane tasks with custom AI agents and automation solutions, while expanding my robotics skillset through fun projects (see "Working On" below).
-- 📖 **Reading** -  Diving into books on robotics, AI, and automation. Currently reading Introduction to Robotics: Mechanics and Control and Robot-Proof.
-- 📝 **Writing** - Writing has become my most relied-upon method for learning and growing. I write in order to learn what I think about what I don't yet understand. I was never the student to speak up in seminar classes, though I believed my thoughts were valuable. As I dive into robotics, I’m documenting my journey openly, to clarify my own understanding and to encourage others to share their ideas.
+- 🌱 **Building & Learning** - Helping small companies eliminate repetitive, mundane tasks with custom AI agents and automation solutions, while expanding my robotics skillset through fun projects (see "Working On" below).
+- 📖 **Reading** -  Diving into books on robotics, AI, and automation. Currently reading [Introduction to Robotics: Mechanics and Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics#Online_Courses), [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/), and [Learning Robotics Using Python](https://learning.oreilly.com/library/view/learning-robotics-using/9781783287536/).
+- 📝 **Writing** - Writing has become my most relied-upon method for learning and growing. I write in order to learn what I think about what I don't yet understand. I was never the student to speak up in seminar classes, though I believed my thoughts were valuable. As I dive into robotics, I plan to document my journey openly, to clarify my own understanding and to encourage others to share their ideas.
 - 📺 **Connect With Me:**
   - [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@wadewilliams6)
   - [![X](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://x.com/wade_williams1)
@@ -28,11 +28,11 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 <br>
 
 ## 💼 Professional Experience
-- 🤖 **AI and Automation Consultant** - helping small companies ditch repetitive, mundane tasks with custom AI agents and automation solutions.
+- 🤖 **AI and Automation Consultant** - helping small companies eliminate repetitive, mundane tasks with custom AI agents and automation solutions.
 - 💼 **Investment Analyst Intern** at **[The Blackstone Group](https://www.blackstone.com/)** – underwrote real estate investments, conducted market research, and assisted in due diligence processes.
 - 📊 **Hybrid Data Science / Investment Analyst Intern** at **[Amherst Holdings](https://www.amherst.com/)** – underwrote real estate investments, automated repetitive processes, and evaluated historical underwriting performance.
 - 🏢 **Founder** of **Pine Partners** - led capital raising efforts to establish a student-managed real estate fund.
-- 🚗 **Software Engineer** for **[Dartmouth Formula Racing](https://sites.dartmouth.edu/dfr/)** - worked as an embedded software and electrical systems engineer for formula-style hybrid and electric racecars.
+- 🚗 **Software Engineer** for **[Dartmouth Formula Racing](https://sites.dartmouth.edu/dfr/)** - worked as an embedded software and electrical systems engineer on formula-style hybrid and electric racecars.
 - ⚛️ **Quantum Computing Researcher** at **[The Whitfield Group](https://jdwhitfield.com/)** - studied the abilities and limitations of new and existing computers to perform physical simulations.
 - 🛠️ **Founder** of **WW Car Refurbishing** - started an automotive refurbishing business to buy, refurbish, and sell used vehicles.
 - 🎓 **Student / Robotics Coach / Admissions Ambassador** at **[Brentwood Academy](https://www.ironeagles9364.com/)** - VEX Robotics team programmer - 2020 Tennessee State Champion; worked as robotics coach and admissions tour guide post-graduation.
@@ -40,9 +40,9 @@ I’m a **former investment analyst** turned **roboticist**, passionate about ma
 <br>
 
 ## 🚀 Working On
-- 🗺️ [Generalizing Reinforcement Learning for Object Localization in Unseen Environments](https://github.com/wadewilliamsw1234/generalizing-RL-object-localization-in-unseen-environments) – Aims to train robots to find and identify objects in new, unseen spaces using reinforcement learning.
-- 🤖 [Smooth and Natural Motion Planning for Humanoid Robots Using Trajectory Optimization](https://github.com/wadewilliamsw1234/motion-planning-for-smooth-movement-using-trajectory-optimization) – Aims to make humanoid robots move like dancers, not stiffs, with trajectory optimization.
-- 🌍 [Learning World Models for Generalization in Simulated Robotics Environments](https://github.com/wadewilliamsw1234/learning-world-models-for-generalization-to-unseen-environments) – Aims to create predictive models so robots can adapt to new simulated worlds.
+- 🤖 [Building a Service Robot from Scratch] - Designing and building a service robot from scratch and programming it using Python. 
+- ⚙️ [Modern Robotics: Mechanics, Planning, & Control] - Completing projects and coding exercises on the kinematics, dynamics, motion planning, and control of mobile robots and robot arms as part of the [Coursera specialization](https://www.coursera.org/specializations/modernrobotics).
+- 🚗 [Mobile Robotics: Methods & Algorithms] - Completing the coding assignments from the University of Michigan's (kindly) open-source grad course on probabalistic and geometric techniques for autonomous mobile robots.
 
 <br>
   
