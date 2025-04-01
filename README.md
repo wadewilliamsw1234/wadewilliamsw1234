@@ -40,8 +40,8 @@ I’m a **former investment analyst turned roboticist**, passionate about **maki
 <br>
 
 ## 🚀 Working On
-- 🤖 [Building a Service Robot from Scratch] - Designing, simulating, programming, and prototyping an autonomous mobile robot using ROS, OpenCV, PCL, and Python. 
-- ⚙️ [Modern Robotics: Mechanics, Planning, & Control] - Completing projects and coding exercises on the kinematics, dynamics, motion planning, and control of mobile robots and robot arms as part of the [Coursera specialization](https://www.coursera.org/specializations/modernrobotics).
+- 🤖 [Building a Service Robot from Scratch](https://github.com/wadewilliamsw1234/building-a-service-robot-from-scratch) - Designing, simulating, programming, and prototyping an autonomous mobile robot using ROS, OpenCV, PCL, and Python. 
+- ⚙️ [Modern Robotics: Mechanics, Planning, & Control](https://github.com/wadewilliamsw1234/modern-robotics/tree/main) - Completing projects and coding exercises on the kinematics, dynamics, motion planning, and control of mobile robots and robot arms as part of the [Coursera specialization](https://www.coursera.org/specializations/modernrobotics).
 - 🚗 [Mobile Robotics: Methods & Algorithms] - Completing the coding assignments from the University of Michigan's (kindly) open-source grad course on probabalistic and geometric techniques for autonomous mobile robots.
 
 <br>
