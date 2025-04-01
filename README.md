@@ -7,7 +7,7 @@ I’m a **former investment analyst turned roboticist**, passionate about **maki
 <br>
 
 ## 🚀 About Me
-- **Background:** Former real estate finance at Blackstone and Amherst.
+- **Background:** Former investment analyst at Blackstone and Amherst.
 - **Currently:** Dedicating my time to building fun robots and useful AI agents; incoming M.Sc. Robotics candidate at Northeastern.
 - **Mission:** Striving to automate repetitive, boring tasks and make the world more fun.
 
