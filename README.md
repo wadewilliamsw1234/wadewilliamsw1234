@@ -1,5 +1,5 @@
 # Hi, I'm Wade
-### Roboticist in Training @ Northeastern | Applied Math @ Dartmouth | Former Investment Analyst @ Blackstone 
+### Roboticist in Training @ Northeastern | Applied Math @ Dartmouth 
 
 I’m a **former investment analyst turned roboticist**, passionate about **making fun robots** and **useful AI agents**. My career began in the world of finance, interning at **The Blackstone Group** and Amherst Holdings, where I analyzed potential real estate investments. During my time **in finance, I noticed a recurring issue: talented, brilliant people wasting time on repetitive, mundane tasks**. With a strong love for robotics and engineering and my applied math background from Dartmouth, I decided **I wanted to contribute to solving this problem**. My goal? 
 **To create fun robots and useful AI agents that automate repetitive, boring digital and physical tasks, hoping to inspire and enable people to spend more time on work that fulfills them.**
